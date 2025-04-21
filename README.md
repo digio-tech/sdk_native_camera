@@ -1,1 +1,1 @@
-## Digio Kyc Workflow SDK
+## Digio native camera SDK
